@@ -8,6 +8,7 @@ node_modules
 *.tmp
 *~
 
+# THESE ARE FROM GIT DOCUMENTATION
 # ignore all .a files
 *.a
 
